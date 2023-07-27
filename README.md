@@ -1,7 +1,7 @@
 # API-Paises
 
-Vamos lá, algo bem desafiador dessa vez, aprendemos API e Frameworks, desde bootStrap a JSON. A proposta era construir um site para pesquisar informações de países e ai está ele...
+Come on, something very challenging this time, we learned API and Frameworks, from bootStrap to JSON. The proposal was to build a website to search for information on countries and there it is...
 
-Repositório GIT e Deploy Netlify
+GIT Repository and Deploy Netlify
 
 Link: https://apipaisesdnc1.netlify.app/
